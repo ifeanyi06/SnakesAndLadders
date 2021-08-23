@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesAndLadders", "SnakesAndLadders\SnakesAndLadders.csproj", "{A1A4540D-8CCE-43E4-856F-6ECE5B29B0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A4540D-8CCE-43E4-856F-6ECE5B29B0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A4540D-8CCE-43E4-856F-6ECE5B29B0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A4540D-8CCE-43E4-856F-6ECE5B29B0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A4540D-8CCE-43E4-856F-6ECE5B29B0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F5AF68-9ED7-4212-BE51-329055E7CF30}
+	EndGlobalSection
+EndGlobal
